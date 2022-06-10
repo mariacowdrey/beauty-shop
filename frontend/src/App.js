@@ -7,9 +7,9 @@ const App = () => {
   return (
     <>
       <Header />
-      <main>
+      <main className='py-3'>
         <Container>
-          <h1>Beauty Shop</h1>
+          <h1>All things beauty.</h1>
         </Container>
       </main>
       <Footer />
