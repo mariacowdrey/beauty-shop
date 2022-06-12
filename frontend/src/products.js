@@ -41,7 +41,7 @@ const products = [
   {
     _id: '4',
     name: 'Bridgerton SatinAllure Lipstick',
-    image: '/images/pat-mcgrath-liptsick.webp',
+    image: '/images/pat-mcgrath-lipstick.webp',
     description:
       'A modernized, satin lipstick that veils lips in ravishing Regency-inspired color and a luminous, dewy finish.',
     brand: 'PAT McGRATH LABS',
